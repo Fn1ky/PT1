@@ -1,2 +1,2 @@
 # GTB1
-This is a beta test of my first game
+This is a simple test script made to test the print fuction with the time libary.
